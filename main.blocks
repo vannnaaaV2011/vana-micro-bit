@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="jftwSC-qAd_DCYVXl7F^" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="$[_,t!)9XlSNj]p4UU_w"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="gwHp{m9yWkA+w`*YO8ai"><value name="text"><shadow type="text" id="4iD1c,+5Ms@!W,S`}eB}"><field name="TEXT">     pozarne stepenice</field></shadow></value></block></next></block></statement></block></xml>
